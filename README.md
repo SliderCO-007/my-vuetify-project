@@ -1,55 +1,41 @@
-# base
+# My-Vuetify-project
+
+This is a simple Vuetify project used in series of stories published on Medium and perhaps more in the future.
 
 ## Project setup
 
-```
-# yarn
-yarn
+```bash
 
 # npm
 npm install
 
-# pnpm
-pnpm install
 ```
 
 ### Compiles and hot-reloads for development
 
-```
-# yarn
-yarn dev
+```bash
 
 # npm
 npm run dev
 
-# pnpm
-pnpm dev
 ```
 
 ### Compiles and minifies for production
 
-```
-# yarn
-yarn build
+```bash
 
 # npm
 npm run build
 
-# pnpm
-pnpm build
 ```
 
 ### Lints and fixes files
 
-```
-# yarn
-yarn lint
+```bash
 
 # npm
 npm run lint
 
-# pnpm
-pnpm lint
 ```
 
 ### Customize configuration
